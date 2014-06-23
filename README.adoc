@@ -13,6 +13,7 @@ $ mvn jetty:run-forked
 === JDK Dependency
 
 This demo uses NPN to run SPDY.
+
 The JDK version used to run this demo and the NPN
-version must be compatible like specified in the
+version specified in +pom.xml+ must be compatible as specified in the
 https://www.eclipse.org/jetty/documentation/current/npn-chapter.html#npn-versions[JDK/NPN Table].
