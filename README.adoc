@@ -4,8 +4,11 @@ https://webtide.com/spdy-push-demo-from-javaone-2012/
 
 === Instructions
 
+[source,bash]
+----
 $ mvn clean install
 $ mvn jetty:run-forked
+----
 
 === JDK Dependency
 
